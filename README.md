@@ -1,11 +1,4 @@
-
-## WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-02
-
-
----
-
-
-# Customer Support Zone
+# Customer-Support-Ticket-System
 
 This project is a React-based **Customer Support Zone** designed to display customer tickets, track progress, and mark them as resolved. It follows a Figma design and includes additional features like status management, responsiveness, and toast notifications using **React-Toastify**.
 
@@ -125,4 +118,3 @@ Clicking **Complete Button**:
 ---
 
 
-# Customer-Support-Ticket-System
